@@ -1,11 +1,11 @@
-Origin: jackie099的cydia源
-Label: jackie099
+Origin: Haifennj的cydia源
+Label: Haifennj
 Suite: stable
 Version: 1.0
-Codename: jackie099
+Codename: Haifennj
 Architectures: iphoneos-arm
 Components: main
-Description: 099的常用软件源
+Description: 我的常用软件源
 MD5Sum:
  8511b0ae7a0168bfa79940fdd1f4362f 1009 Packages
    Packages.bz2
