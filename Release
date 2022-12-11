@@ -1,0 +1,13 @@
+Origin: jackie099的cydia源
+Label: jackie099
+Suite: stable
+Version: 1.0
+Codename: jackie099
+Architectures: iphoneos-arm
+Components: main
+Description: 099的常用软件源
+MD5Sum:
+ 8511b0ae7a0168bfa79940fdd1f4362f 1009 Packages
+   Packages.bz2
+ a661b48cb8707896941ef6c4f67822ac 562 Packages.gz
+
